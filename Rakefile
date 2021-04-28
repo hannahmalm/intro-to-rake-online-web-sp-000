@@ -6,12 +6,12 @@ desc 'outputs hello to the terminal'
   end
 end 
 
-desc 'outputs hola to the terminal'
+# desc 'outputs hola to the terminal'
 
-  task :hola do 
-      puts "hola de Rake!"
-  end 
-end 
+#   task :hola do 
+#       puts "hola de Rake!"
+#   end 
+# end 
 
 
 # task :environment do
